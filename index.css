@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+body {
+  position: absolute;
+  background-image: url("./images/minimalism_aircraft_flight_74406_1920x1080.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  z-index: -1;
+}
+
+#title{
+    margin-top: 250px;
+    color: rgba(235, 255, 0, 0.8);
+}
+
+.checked {
+    height: 20px;
+    width: 20px;
+}
